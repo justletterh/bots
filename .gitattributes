@@ -1,3 +1,3 @@
 * text=auto
 * linguist-detectable=true
-* linguist-language=Markdown
+*.hxml linguist-language=Haxe

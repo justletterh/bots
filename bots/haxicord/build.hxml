@@ -1,5 +1,0 @@
--lib hxcpp
--lib Haxicord
--cp src
--main Main
--cpp bin/cpp

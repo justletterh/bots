@@ -1,4 +1,0 @@
-* text=auto
-* linguist-detectable=true
-*.hxml linguist-language=Haxe
-docker-compose.yml linguist-language=Dockerfile
